@@ -8,4 +8,18 @@ An end-to-end data engineering project using Apache Spark, Databricks, Azure ADL
 - Automate ingestion of e-commerce data (orders, returns, shipments, dimensions)  
 - Standardize and clean data for consistency across all layers  
 - Build an analytics-ready data model integrated with **Power BI**  
-- Enable scalable and auditable governance with **Unity Catalog**  
+- Enable scalable and auditable governance with **Unity Catalog**
+
+---
+
+## 🧰 **Tools & Technologies**
+
+| **Layer**       | **Tool / Service**                | **Purpose**                                      |
+|-----------------|-----------------------------------|-------------------------------------------------|
+| **Ingestion**   | Databricks Autoloader (Structured Streaming) | Incremental data loading from ADLS               |
+| **Storage**     | Azure Data Lake Storage (ADLS Gen2) | Centralized data repository                      |
+| **Processing**  | Azure Databricks (PySpark)    | ETL and transformation                           |
+| **Governance**  | Unity Catalog                | Centralized access control and schema registry  |
+| **Visualization** | Power BI                      | BI dashboards and reports                        |
+
+---
