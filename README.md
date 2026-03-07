@@ -23,3 +23,11 @@ An end-to-end data engineering project using Apache Spark, Databricks, Azure ADL
 | **Visualization** | Power BI                      | BI dashboards and reports                        |
 
 ---
+
+## ✅ **Outcomes**
+
+- ⏱️ Automated daily & monthly ingestion using Autoloader 
+- 🧩 Unified and governed schemas via Unity Catalog  
+- ⚙️ Simplified data transformations (PySpark & Delta)  
+- 📊 Real-time insights in Power BI 
+- 🚀 Scalable architecture  
